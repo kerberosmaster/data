@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------
+[ PID : 8096 - A - MINGW64:/c/trojan/data ]
+l [Back] [Back] c d [Space] . . [Return]
+------------------------------------------------------------------------
+[ PID : 8096 - A - MINGW64:/c/trojan ]
+c d [Space] c [Tab] [Return]
+------------------------------------------------------------------------
+[ PID : 8096 - A - MINGW64:/c/trojan/config ]
+l s [Return] t m [Space] [Back] [Back] g [Back] [Back] g i t [Space] r m [Back] [Back] r m [Space] c [Tab] . [Tab] [Space] t [Tab] [Return] g i t [Space] c o m m i t [Space] - m [Space] [Lshift] " n e w [Lshift] " [Return] g i t [Space] p u s h [Space] o f i g i [Back] [Back] [Back] [Back] [Back] o r i g i n [Space] m a s e [Back] t e r [Return] c l e a r [Return]
+------------------------------------------------------------------------
+[ PID : 9448 - A - 명령 프롬프트 ]
+[Up] [Up] [Return]
+------------------------------------------------------------------------
+[ PID : 9448 - A - 명령 프롬프트 - python  bindattack.py -t 192.168.219.100 ]
+[Return] [Return] c [Back] [Back] i p c o n f i g [Return] [Return] [Return] [Return]
