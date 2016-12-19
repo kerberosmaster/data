@@ -1,0 +1,4 @@
+
+------------------------------------------------------------------------
+[ PID : 8096 - A - MINGW64:/c/trojan/config ]
+g t i [Back] [Back] [Back] [Back] v i [Space] c [Tab] [Return] i [Down] [Down] [Down] [Down] [Down] [Down] [Up] [Right] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Right] [Right] [Back] [Back] [Back] [Back] [Escape] [Lshift] : w q [Return] c l s [Return] c l e a r [Return] v i [Back] [Back] [Back] v [Back] g i t [Space] c o m m i t [Space] - a [Space] - m [Space] [Lshift] " n e w [Lshift] " [Return] g i t [Space] p u s h [Space] o r i g i n [Space] m a s t e r [Return] c l e a r [Return]
