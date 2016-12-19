@@ -1,0 +1,10 @@
+
+------------------------------------------------------------------------
+[ PID : 9448 - A - 명령 프롬프트 - python  bindattack.py -t 192.168.219.100 ]
+[Return] [Return] [Return] i p c o n f i g [Return] [Return] [Return] [Return] [Return] [Return]
+------------------------------------------------------------------------
+[ PID : 656 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py - EditPlus ]
+[Return]
+------------------------------------------------------------------------
+[ PID : 656 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py * - EditPlus ]
+p r i n t [Space] [Lshift] " p i d [Space] [Lshift] : [Space] [Lshift] [Lshift] [Lshift] [Lshift] [Lshift] [Lshift] [Lshift] [Lshift] [Lshift] % d [Lshift] " [Space] [Lshift] % p i d
