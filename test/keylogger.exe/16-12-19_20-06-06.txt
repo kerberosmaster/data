@@ -1,0 +1,20 @@
+
+------------------------------------------------------------------------
+[ PID : 656 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py - EditPlus ]
+[Return]
+------------------------------------------------------------------------
+[ PID : 656 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py * - EditPlus ]
+[Lcontrol] [C] [Back] [Return] [Lcontrol] [PASTE] - delete_trojan_file(contain.name)
+[Back] a l i v e . n a m e
+------------------------------------------------------------------------
+[ PID : 1276 - A - 선택 명령 프롬프트 - python  git_trojan.py ]
+[Lcontrol] [C]
+------------------------------------------------------------------------
+[ PID : 1276 - A - 명령 프롬프트 - python  git_trojan.py ]
+[D]
+------------------------------------------------------------------------
+[ PID : 1276 - A - 선택 명령 프롬프트 - python  git_trojan.py ]
+[Lcontrol] [D]
+------------------------------------------------------------------------
+[ PID : 1276 - A - 명령 프롬프트 - python  git_trojan.py ]
+[D] [Lcontrol] [D] [C]
