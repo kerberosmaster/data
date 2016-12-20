@@ -1,0 +1,7 @@
+
+------------------------------------------------------------------------
+[ PID : 10292 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py - EditPlus ]
+[Lcontrol] [C] [Return]
+------------------------------------------------------------------------
+[ PID : 10292 - A - C:\Users\kerberos\Desktop\Python\Trojan\trojan\git_trojan.py * - EditPlus ]
+[Lcontrol] [PASTE] - remote_path = "%s/%s/%s.bmp" %(trojan_id,module,current_string)
