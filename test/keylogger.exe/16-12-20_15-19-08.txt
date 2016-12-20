@@ -1,0 +1,10 @@
+
+------------------------------------------------------------------------
+[ PID : 7388 - A - MINGW64:/c/trojan/modules ]
+g i t [Back] [Back] [Back] l s [Return] c d [Space] . . [Return]
+------------------------------------------------------------------------
+[ PID : 7388 - A - MINGW64:/c/trojan ]
+c d [Space] e [Tab] [Return]
+------------------------------------------------------------------------
+[ PID : 7388 - A - MINGW64:/c/trojan/exception ]
+l s [Return] g i t [Space] p u l l [Space] o r i g i n [Space] m a s t e r [Return] l s [Return] g o t [Back] [Back] [Back] g i t [Space] p u s h [Space] o r i g i n [Space] m a s t e r [Return]
