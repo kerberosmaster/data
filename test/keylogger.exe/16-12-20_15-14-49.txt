@@ -1,7 +1,0 @@
-
-------------------------------------------------------------------------
-[ PID : 220 - A - kerberosmaster/exception - Chrome ]
-[Right]
-------------------------------------------------------------------------
-[ PID : 9668 - A - address.txt - ¸Þ¸ðÀå ]
-[Return] [Return] [Return] [Lcontrol] [PASTE] - https://github.com/kerberosmaster/exception.git
