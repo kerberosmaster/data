@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------
+[ PID : 3244 - A - 명령 프롬프트 ]
+[Return] [Up] [Up] [Return]
+------------------------------------------------------------------------
+[ PID : 3244 - A - 명령 프롬프트 - python  bindattack.py -t 192.168.219.100 ]
+[Return] [Return] i p c o n i f [Back] [Back] f i g [Return] [Return] [Return] [Return] [Return] e x i t [Return]
+------------------------------------------------------------------------
+[ PID : 3244 - A - 명령 프롬프트 ]
+[Return] [Return] c l s [Return] [Up] [Up] [Return]
+------------------------------------------------------------------------
+[ PID : 3244 - A - 명령 프롬프트 - python  bindattack.py -t 192.168.219.100 ]
+[Return] [Return] i p [Back] [Back] u p l o a d [Space] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] e x i t [Return] [Return]
+------------------------------------------------------------------------
+[ PID : 8708 - A - MINGW64:/c/trojan/config ]
+g i t [Space] r m [Space] - r f [Space] t [Tab] [Return] g i t [Space] c o m m i t [Space] - a [Space] - m [Space] [Lshift] " n e w [Lshift] " [Return] g i t [Space] p u s h [Space] o r i g i n [Space] m a s t e r [Return]
