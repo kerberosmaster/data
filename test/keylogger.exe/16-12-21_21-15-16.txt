@@ -1,7 +1,0 @@
-
-------------------------------------------------------------------------
-[ PID : 11124 - A - 새 탭 - Chrome ]
-g [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] [Back] g i t [Down] [Return]
-------------------------------------------------------------------------
-[ PID : 2284 - A - 제목 없음 - 메모장 ]
-[Return] [Return] [Return] [Return] t e s t

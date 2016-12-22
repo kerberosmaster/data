@@ -1,7 +1,0 @@
-
-------------------------------------------------------------------------
-[ PID : 3244 - A - 명령 프롬프트 ]
-[Up] [Up] [Return] c l s [Return]
-------------------------------------------------------------------------
-[ PID : 8708 - A - MINGW64:/c/trojan/config ]
-g i t [Back] [Back] [Back] [Back] l s [Return] g i t [Space] r m [Space] - r f [Space] [Lshift] * [Return] g i t [Space] c o m m i t [Space] - a [Space] - m [Space] [Lshift] " n e w [Lshift] " [Return] g i t [Space] p u s h [Space] o r i g i n [Space] m a s t e r [Return] c l e [Back] [Back] [Back] c l e a r [Return]
