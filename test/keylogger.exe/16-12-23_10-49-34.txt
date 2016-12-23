@@ -1,0 +1,10 @@
+
+------------------------------------------------------------------------
+[ PID : 10380 - A - MINGW64:/c/trojan/modules ]
+l s [Return]
+------------------------------------------------------------------------
+[ PID : 8068 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\trojan\trojan.py - EditPlus ]
+[Return]
+------------------------------------------------------------------------
+[ PID : 8068 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\trojan\trojan.py * - EditPlus ]
+p r i n t [Space] [Lshift] " e n d [Back] t e r [Lshift] " [Return] p r i n t [Space] [Lshift] "
