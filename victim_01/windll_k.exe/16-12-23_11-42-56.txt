@@ -1,0 +1,7 @@
+
+------------------------------------------------------------------------
+[ PID : 3316 - A - 시작 메뉴 ]
+m e m o
+------------------------------------------------------------------------
+[ PID : 3848 - iexplore.exe - NAVER - Windows Internet Explorer ]
+b h 2 5 4 1 [Tab] m a s t e r l 9 8 [Lshift] # [Return] [Hangul] c h [Back] [Back] [Back] [Hangul] c h d k [Space]
