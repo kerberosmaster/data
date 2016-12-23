@@ -1,7 +1,0 @@
-
-------------------------------------------------------------------------
-[ PID : 7888 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\trojan\trojan.py - EditPlus ]
-[Back]
-------------------------------------------------------------------------
-[ PID : 7888 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\trojan\trojan.py * - EditPlus ]
-t e m p

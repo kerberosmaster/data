@@ -1,7 +1,0 @@
-
-------------------------------------------------------------------------
-[ PID : 1156 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\modules\sandbox.py - EditPlus ]
-,
-------------------------------------------------------------------------
-[ PID : 1156 - A - C:\Users\kerberos\Desktop\Trojan_60s_v\modules\sandbox.py * - EditPlus ]
-[Space] [Lshift] "
